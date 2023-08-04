@@ -27,7 +27,7 @@
 
 # 👑 Contact
 <p align="center">
-<a href="https://github.com/TzyCute">
+<a href="https://github.com/TuanZyy">
   <img alt="Github" width="100" src="https://cdn-icons-png.flaticon.com/512/179/179323.png" />
 </a>
 <a href="https://www.instagram.com/tzycutes1tg.ltv/">
